@@ -138,7 +138,7 @@ int main()
 		printf("\t6- Inserir mais dados\n");
 		printf("Opção:");//fim do menu
 	
-		scanf("%s", &opcao);//armazenamento da escolha do usuario
+		scanf("%d", &opcao);//armazenamento da escolha do usuario
 	
 		system("cls");
 		
